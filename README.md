@@ -26,4 +26,4 @@
     },
     "copyright": "2018-20 https://jokes.one"
   }
-}```
+}
